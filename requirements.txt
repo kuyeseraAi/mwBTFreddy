@@ -1,0 +1,10 @@
+pandas
+numpy
+skimmage
+simplekml
+shapely
+osgep
+tifffile 
+qgis.core
+pyproj
+geopandas
