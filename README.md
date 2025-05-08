@@ -1,7 +1,7 @@
 **OVERVIEW**
 
 The mwBTfreddy dataset is a dataset that was developed by [[Kuyesera AI
-Lab]{.underline}](https://kailab.tech/) to aid in evaluating flash flood
+Lab]](https://kailab.tech/) to aid in evaluating flash flood
 damage in urban areas of Malawi, with a particular focus on the
 aftermath of Cyclone Freddy in 2023. This dataset includes paired
 satellite images taken before and after the disaster and accompanying
@@ -13,9 +13,9 @@ This repository comprises supporting files (KML files and scripts) used
 in the dataset creation process. The dataset is distributed as a
 compressed .zip file containing the images and corresponding JSON files,
 and can be accessed from
-[[Zenodo]{.underline}](https://zenodo.org/records/14190390). The full
+[[Zenodo]](https://zenodo.org/records/14190390). The full
 datasheet is available on
-[[arXiv]{.underline}](https://arxiv.org/abs/2505.01242).
+[[arXiv]](https://arxiv.org/abs/2505.01242).
 
 **SCRIPTS**
 
@@ -84,7 +84,7 @@ script.
 **NOTES**
 
 - Users are encouraged to read the
-  > [[datasheet]{.underline}](https://arxiv.org/abs/2505.01242) for
+  > [[datasheet]](https://arxiv.org/abs/2505.01242) for
   > complete documentation on data creation, and usage guidelines.
 
 - Install all required dependencies from the requirements file before
