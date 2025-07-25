@@ -1,0 +1,6 @@
+names:
+- bld
+nc: 1
+test: sample_input/cropped_jpg
+train: C:\scripts\image_preprocessing\05_prepare_dataset_split_and_config\sample_output\train\images
+val: C:\scripts\image_preprocessing\05_prepare_dataset_split_and_config\sample_output\valid\images

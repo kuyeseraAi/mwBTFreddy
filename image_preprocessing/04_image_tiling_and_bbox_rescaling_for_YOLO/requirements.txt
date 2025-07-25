@@ -1,0 +1,5 @@
+shapely
+numpy
+rasterio
+PIL
+matplotlib
